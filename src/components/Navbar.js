@@ -13,7 +13,7 @@ function Navbar() {
             <img
             className="nav__avatar"
             src="https://i.stack.imgur.com/34AD2.jpg"
-            alt="Profile Image"
+            alt="Profile Pic"
             />
         </div>
     )
