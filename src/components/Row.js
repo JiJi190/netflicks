@@ -35,7 +35,8 @@ function Row({ title, fetchUrl, isLargeRow }) {
         ))}
             </div>
             
-            {/* container -> posters */}
+            {/* Trailers */}
+            <YouTube videoId={trailerUrl} opts={opts} />
         </div>
     )
 }
